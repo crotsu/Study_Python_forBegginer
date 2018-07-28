@@ -45,7 +45,7 @@ str, sumなどは予約語，組み込み関数名なので使うと上書きし
 使えない変数名は最下部に掲載する．
 ここでは，つい使ってしまうが実は使えない変数名を掲載する．
 ```
-str, sum, max, min, lambda, input, next set, type all, any, bin, dir, len, range, round, vars
+str, sum, max, min, lambda, input, next, set, type, all, any, bin, dir, len, range, round, vars
 ```
 
 ## 繰り返し
