@@ -19,7 +19,7 @@ print()
 # いろいろエラー処理が大変
 
 
-# pythonぽく作る
+# pythonっぽく作る
 wordCount = len(st.split())
 print(wordCount)
 print()

@@ -21,5 +21,5 @@ val = val.split()
 word = val[1]
 print(word)
 
-# Pythonは文字列処理が超得意なんですね．
+# Pythonは文字列処理が超得意なんです．
 
